@@ -1,0 +1,1 @@
+"# Next.js-GamePage"  initgit add .git commit -m "first commit"git branch -M maingit remote add origin https://github.com/SHAJAR5110/Next.js-GamePage.gitgit push -u origin main
